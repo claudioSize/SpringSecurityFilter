@@ -1,0 +1,10 @@
+fav\com\springsecurityfirsttime1\Entitys\UserEntity.class
+fav\com\springsecurityfirsttime1\Service\Jwt.class
+fav\com\springsecurityfirsttime1\Entitys\UserEntity$UserEntityBuilder.class
+fav\com\springsecurityfirsttime1\Entitys\DTOUser.class
+fav\com\springsecurityfirsttime1\Controller\MainController.class
+fav\com\springsecurityfirsttime1\Config\ConfigCors.class
+fav\com\springsecurityfirsttime1\Entitys\DTOUser$DTOUserBuilder.class
+fav\com\springsecurityfirsttime1\Service\ServiceNewUser.class
+fav\com\springsecurityfirsttime1\Repository\UserRepository.class
+fav\com\springsecurityfirsttime1\SpringSecurityFirstTime1Application.class
